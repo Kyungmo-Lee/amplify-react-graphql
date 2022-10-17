@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "amplifyreactgraphql",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-10-17T03:46:45.512Z"
+}
